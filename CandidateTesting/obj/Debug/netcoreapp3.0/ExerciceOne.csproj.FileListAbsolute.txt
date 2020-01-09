@@ -1,0 +1,10 @@
+C:\Users\Renan\source\repos\CandidateTesting\CandidateTesting\bin\Debug\netcoreapp3.0\ExerciceOne.exe
+C:\Users\Renan\source\repos\CandidateTesting\CandidateTesting\bin\Debug\netcoreapp3.0\ExerciceOne.deps.json
+C:\Users\Renan\source\repos\CandidateTesting\CandidateTesting\bin\Debug\netcoreapp3.0\ExerciceOne.runtimeconfig.json
+C:\Users\Renan\source\repos\CandidateTesting\CandidateTesting\bin\Debug\netcoreapp3.0\ExerciceOne.runtimeconfig.dev.json
+C:\Users\Renan\source\repos\CandidateTesting\CandidateTesting\bin\Debug\netcoreapp3.0\ExerciceOne.dll
+C:\Users\Renan\source\repos\CandidateTesting\CandidateTesting\bin\Debug\netcoreapp3.0\ExerciceOne.pdb
+C:\Users\Renan\source\repos\CandidateTesting\CandidateTesting\obj\Debug\netcoreapp3.0\ExerciceOne.AssemblyInfoInputs.cache
+C:\Users\Renan\source\repos\CandidateTesting\CandidateTesting\obj\Debug\netcoreapp3.0\ExerciceOne.AssemblyInfo.cs
+C:\Users\Renan\source\repos\CandidateTesting\CandidateTesting\obj\Debug\netcoreapp3.0\ExerciceOne.dll
+C:\Users\Renan\source\repos\CandidateTesting\CandidateTesting\obj\Debug\netcoreapp3.0\ExerciceOne.pdb
